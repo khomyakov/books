@@ -1,0 +1,8 @@
+Thu, 28 May 2015 18:50:39 +0300
+README.rdoc	Thu, 28 May 2015 18:20:18 +0300
+app/controllers/application_controller.rb	Thu, 28 May 2015 18:46:13 +0300
+app/controllers/books_controller.rb	Thu, 28 May 2015 18:21:40 +0300
+app/helpers/application_helper.rb	Thu, 28 May 2015 18:20:18 +0300
+app/helpers/books_helper.rb	Thu, 28 May 2015 18:21:40 +0300
+app/models/book.rb	Thu, 28 May 2015 18:21:40 +0300
+app/models/user.rb	Thu, 28 May 2015 18:43:56 +0300
